@@ -1,0 +1,2 @@
+const String intro =
+    "I am a software engineer who is competent in bringing UI designs and ideas to life with Flutter. I have 2+ years of experience building with the Flutter framework and an overall coding experience of 4+ years.\n\nI have a technical understanding of software architectural patterns alongside their practical applications in building software that is both maintanable and scalable.\n\nI also actively work on the backend building REST Api's and integrating them into my frontend projects.";
